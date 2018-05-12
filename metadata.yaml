@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3534
     wikipedia: http://en.wikipedia.org/wiki/Nora_Perry_%28writer%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36105#Hope-BenhamA-Story-for-Girls
 gutenberg_issued: '2011-05-14'
 gutenberg_type: Text
 identifiers:
