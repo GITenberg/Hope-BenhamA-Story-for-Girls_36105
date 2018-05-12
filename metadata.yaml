@@ -1,0 +1,43 @@
+_repo: Hope-BenhamA-Story-for-Girls_36105
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Merrill, Frank T.
+    aliases:
+    - Merrill, F. T.
+    - Merrill, Frank Thayer
+    birthdate: 1848
+    gutenberg_agent_id: '6202'
+    url: http://www.gutenberg.org/2009/agents/6202
+covers:
+- cover_type: archival
+  image_path: 36105-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Perry, Nora
+    birthdate: 1831
+    deathdate: 1896
+    gutenberg_agent_id: '3534'
+    url: http://www.gutenberg.org/2009/agents/3534
+    wikipedia: http://en.wikipedia.org/wiki/Nora_Perry_%28writer%29
+description: ''
+gutenberg_issued: '2011-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36105'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Success -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Poor -- Juvenile fiction'
+- !lcsh 'Musicians -- Juvenile fiction'
+- !lcsh 'Violinists -- Juvenile fiction'
+- !lcsh 'Diligence -- Juvenile fiction'
+- !lcsh 'Students -- Juvenile fiction'
+- !lcsh 'Girls -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'Hope Benham: A Story for Girls'
+url: http://www.gutenberg.org/ebooks/36105
